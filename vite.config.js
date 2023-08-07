@@ -15,5 +15,5 @@ export default defineConfig({
     },
     outDir: '../dist',
   },
-  plugins: [react()],
+  plugins: [react(), injectHTML(), FullReload(['./src/**/**.html'])],
 });
