@@ -54,7 +54,7 @@
 
 }
 .button-categories {
-  background-color: transparent;
+  background-color: inherit;
   border-color: transparent;
   position: absolute;
   top: 6px;
