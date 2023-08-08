@@ -54,7 +54,7 @@
 
 }
 .button-categories {
-  background-color: inherit;
+  background-color: transparent;
   border-color: transparent;
   position: absolute;
   top: 6px;
@@ -90,7 +90,6 @@
     border: none;
   }
   .categories-item-tablet {
-    background-color: #f4f4f4;
     font-weight: 400;
     font-size: 12px;
     line-height: 16px;
@@ -116,7 +115,6 @@
     padding: 0;
   }
   .categories-others-menu {
-    background-color: #f4f4f4;
     display: flex;
     font-size: 12px;
     line-height: 16px;
@@ -145,7 +143,6 @@
     color: #4b48db;
     border-radius: 20px;
     padding: 0px 24px 8px 24px;
-    background-color: #f4f4f4;
   }
   .categories-item-tablet-other {
     font-size: 12px;
@@ -196,7 +193,6 @@
     color: #4b48db;
     border-radius: 20px;
     padding: 0px 24px;
-    background-color: #f4f4f4;
   }
 }
 /* Дяденко вніс зміни */
