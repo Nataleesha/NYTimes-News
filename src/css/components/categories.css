@@ -115,6 +115,7 @@
     padding: 0;
   }
   .categories-others-menu {
+    background-color: #fff;
     display: flex;
     font-size: 12px;
     line-height: 16px;
@@ -141,6 +142,7 @@
     left: 400px;
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.1);
     color: #4b48db;
+    background-color: #fff;
     border-radius: 20px;
     padding: 0px 24px 8px 24px;
   }
@@ -191,6 +193,7 @@
     z-index: 200;
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.1);
     color: #4b48db;
+    background-color: #fff;
     border-radius: 20px;
     padding: 0px 24px;
   }
